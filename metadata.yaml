@@ -1,0 +1,42 @@
+_repo: Work-A-Story-of-Experience_4770
+creator:
+  author:
+    agent_name: Alcott, Louisa May
+    aliases:
+    - Alcott, Louisa M. (Louisa May)
+    - Alcott, L. M. (Louisa May)
+    - Barnard, A. M.
+    birthdate: 1832
+    deathdate: 1888
+    gutenberg_agent_id: '102'
+    url: http://www.gutenberg.org/2009/agents/102
+    wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+description: "Work: A Story of Experience, first published in 1873, is a semi-autobiographical\
+  \ novel by Louisa May Alcott, the author of Little Women, set in the times before\
+  \ and after the American Civil War.\nIt is one of \"several nineteenth-century novels\
+  \ [which] uncovers the changes in women's work in the new industrial era, as well\
+  \ as the dilemmas, tensions, and the meaning of that work\". The story depicts the\
+  \ struggles of a young woman trying to support herself. The main character, Christie\
+  \ Devon, works outside the home in a variety of different jobs, but the end of her\
+  \ story marks \"the beginning of a new career as a voice and activist for other\
+  \ working women\".\nThe character David Sterling is loosely based on Alcott's friend,\
+  \ Henry David Thoreau.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4770'
+  wikidata: Q8034531
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- Employment -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Feminist fiction'
+- !lcc 'PS'
+title: 'Work: A Story of Experience'
+url: http://www.gutenberg.org/ebooks/4770
+wikipedia:
+- https://en.wikipedia.org/wiki/Work:_A_Story_of_Experience
