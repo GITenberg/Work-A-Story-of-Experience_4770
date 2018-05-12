@@ -1,5 +1,8 @@
 _repo: Work-A-Story-of-Experience_4770
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alcott, Louisa May
@@ -22,6 +25,8 @@ description: "Work: A Story of Experience, first published in 1873, is a semi-au
   \ story marks \"the beginning of a new career as a voice and activist for other\
   \ working women\".\nThe character David Sterling is loosely based on Alcott's friend,\
   \ Henry David Thoreau.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4770#Work-A-Story-of-Experience
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
 identifiers:
